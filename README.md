@@ -1,5 +1,5 @@
 # Look-and-Style-Unisex-Salon:
-![Uploading preview.png…]()
+!["preview image"](https://github.com/RajSingh-oss/Look-and-Style-Unisex-Salon/blob/main/preview.png?raw=true)
 # Credits:
  =>  Template Name    : Look and Style Unisex Salon
 
